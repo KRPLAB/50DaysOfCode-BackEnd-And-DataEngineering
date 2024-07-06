@@ -96,6 +96,8 @@
     }
     ```
 
+    Após isso deve ser criada a pasta src e o arquivo "index.ts"
+
 3. Compilando e Executando o Código TypeScript
 
     a) Compilando o código:
